@@ -4,3 +4,5 @@ Malware made in C# You need .net 3.5 to run it. Do not run this on your main pc 
 The GDI ONLY version does everything that the regular GDI_Destruct does but doesnt overwrite the MBR.
 
 Always make sure you run this on a virtual machine 
+
+The MBR only works on virtual machines i am working to get it to appear on real hardware for my new malware 
